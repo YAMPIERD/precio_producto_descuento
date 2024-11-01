@@ -6,6 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="cbbcbdbc-f75d-41b2-9680-8e14c486df3c" name="Changes" comment="Implementada la función calcular_precio_final y pruebas de cálculo de descuento">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/logica/precio_producto_descuento.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/logica/precio_producto_descuento.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/Test_precio_producto_descuento.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/Test_precio_producto_descuento.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,9 +30,9 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="2o1cdKY4ST6ooJYNOfjsSTUNZFF" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -42,7 +44,7 @@
     "Python tests.Python tests in Test_precio_producto_descuento.py.executor": "Run",
     "Python.main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "feature/calculate-discount",
+    "git-widget-placeholder": "feature/validate-input",
     "last_opened_file_path": "C:/Users/tochib/PycharmProjects/precio_producto_descuento/src/vista",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -161,6 +163,7 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/precio_producto_descuento$main.coverage" NAME="main Coverage Results" MODIFIED="1730046282846" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/precio_producto_descuento$.coverage" NAME=" Coverage Results" MODIFIED="1730049364862" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/precio_producto_descuento$.coverage" NAME=" Coverage Results" MODIFIED="1730501725002" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/precio_producto_descuento$precio_producto_descuento.coverage" NAME="precio_producto_descuento Coverage Results" MODIFIED="1730500145622" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/logica" />
   </component>
 </project>
