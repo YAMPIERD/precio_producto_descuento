@@ -28,9 +28,9 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="2o1cdKY4ST6ooJYNOfjsSTUNZFF" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -41,8 +41,9 @@
   "keyToString": {
     "Python tests.Python tests in Test_precio_producto_descuento.py.executor": "Run",
     "Python.main.executor": "Run",
+    "Python.precio_producto_descuento.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "feature/calculate-discount",
+    "git-widget-placeholder": "feature/validate-input",
     "last_opened_file_path": "C:/Users/tochib/PycharmProjects/precio_producto_descuento/src/vista",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -83,6 +84,29 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="precio_producto_descuento" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="precio_producto_descuento" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/logica" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/logica/precio_producto_descuento.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Python tests in Test_precio_producto_descuento.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="precio_producto_descuento" />
       <option name="ENV_FILES" value="" />
@@ -102,6 +126,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python tests.Python tests in Test_precio_producto_descuento.py" />
+        <item itemvalue="Python tests.Python tests in Test_precio_producto_descuento.py" />
+        <item itemvalue="Python.precio_producto_descuento" />
+        <item itemvalue="Python tests.Python tests in Test_precio_producto_descuento.py" />
+        <item itemvalue="Python.precio_producto_descuento" />
       </list>
     </recent_temporary>
   </component>
@@ -122,6 +150,8 @@
       <option name="presentableId" value="Default" />
       <updated>1730040620670</updated>
       <workItem from="1730040688065" duration="9124000" />
+      <workItem from="1730082718764" duration="582000" />
+      <workItem from="1730499163197" duration="995000" />
     </task>
     <task id="LOCAL-00001" summary="linea base del proyecto">
       <option name="closed" value="true" />
@@ -162,5 +192,6 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/precio_producto_descuento$main.coverage" NAME="main Coverage Results" MODIFIED="1730046282846" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/precio_producto_descuento$.coverage" NAME=" Coverage Results" MODIFIED="1730049364862" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/precio_producto_descuento$precio_producto_descuento.coverage" NAME="precio_producto_descuento Coverage Results" MODIFIED="1730500145622" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/logica" />
   </component>
 </project>
